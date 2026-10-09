@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/chat.js": { "maxDuration": 300, "includeFiles": "knowledge/**" },
+    "api/me.js": { "includeFiles": "knowledge/**" }
+  }
+}
